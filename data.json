@@ -5,7 +5,8 @@
     "birth_y" : 1986,
     "birth_m" : 12,
     "birth_d" : 10,
-    "sex" : 1
+    "sex" : 1,
+    "photo" : "http://data.systemiclab.or.kr/upload/MEMBER/1629551241_339.jpg"
   },
   {
     "id" : 1,
@@ -13,6 +14,7 @@
     "birth_y" : 1988,
     "birth_m" : 8,
     "birth_d" : 24,
-    "sex" : 2
+    "sex" : 2,
+    "photo" : "http://data.systemiclab.or.kr/upload/MEMBER/1629551241_339.jpg"
   }
 ]
